@@ -1,0 +1,324 @@
+10-May-2025 00:13:35.948 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/9.0.104
+10-May-2025 00:13:35.950 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Apr 4 2025 12:32:55 UTC
+10-May-2025 00:13:35.951 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     9.0.104.0
+10-May-2025 00:13:35.951 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 11
+10-May-2025 00:13:35.951 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+10-May-2025 00:13:35.951 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+10-May-2025 00:13:35.951 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\Eclipse Adoptium\jre-8.0.382.5-hotspot
+10-May-2025 00:13:35.951 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       1.8.0_382-b05
+10-May-2025 00:13:35.951 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Temurin
+10-May-2025 00:13:35.951 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104
+10-May-2025 00:13:35.951 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104
+10-May-2025 00:13:35.954 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\conf\logging.properties
+10-May-2025 00:13:35.954 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-May-2025 00:13:35.954 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+10-May-2025 00:13:35.954 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+10-May-2025 00:13:35.954 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dsun.io.useCanonCaches=false
+10-May-2025 00:13:35.954 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dignore.endorsed.dirs=
+10-May-2025 00:13:35.954 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104
+10-May-2025 00:13:35.954 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104
+10-May-2025 00:13:35.955 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\temp
+10-May-2025 00:13:35.958 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Cargada la biblioteca nativa APR de Apache Tomcat [1.3.1] con la versión APR [1.7.4].
+10-May-2025 00:13:35.958 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Capacidades APR: IPv6 [true], enviar fichero [true], aceptar filtros [false], aleatorio [true], UDS [true].
+10-May-2025 00:13:35.959 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+10-May-2025 00:13:35.963 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL inicializado correctamente [OpenSSL 3.0.14 4 Jun 2024]
+10-May-2025 00:13:36.150 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+10-May-2025 00:13:36.165 INFORMACIÓN [main] org.apache.catalina.startup.Catalina.load Server initialization in [362] milliseconds
+10-May-2025 00:13:36.191 INFORMACIÓN [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+10-May-2025 00:13:36.192 INFORMACIÓN [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.104]
+10-May-2025 00:13:36.198 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\docs] de la aplicación web
+10-May-2025 00:13:36.407 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\docs] has finished in [207] ms
+10-May-2025 00:13:36.407 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\examples] de la aplicación web
+10-May-2025 00:13:36.684 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\examples] has finished in [277] ms
+10-May-2025 00:13:36.684 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\host-manager] de la aplicación web
+10-May-2025 00:13:36.706 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\host-manager] has finished in [22] ms
+10-May-2025 00:13:36.707 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\manager] de la aplicación web
+10-May-2025 00:13:36.732 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\manager] has finished in [25] ms
+10-May-2025 00:13:36.733 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\ROOT] de la aplicación web
+10-May-2025 00:13:36.750 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\ROOT] has finished in [17] ms
+10-May-2025 00:13:36.753 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+10-May-2025 00:13:36.763 INFORMACIÓN [main] org.apache.catalina.startup.Catalina.start Server startup in [597] milliseconds
+10-May-2025 01:24:15.577 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/9.0.104
+10-May-2025 01:24:15.580 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Apr 4 2025 12:32:55 UTC
+10-May-2025 01:24:15.580 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     9.0.104.0
+10-May-2025 01:24:15.580 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 11
+10-May-2025 01:24:15.580 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+10-May-2025 01:24:15.581 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+10-May-2025 01:24:15.581 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\Eclipse Adoptium\jdk-21.0.5.11-hotspot
+10-May-2025 01:24:15.581 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       21.0.5+11-LTS
+10-May-2025 01:24:15.581 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Eclipse Adoptium
+10-May-2025 01:24:15.581 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104
+10-May-2025 01:24:15.581 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104
+10-May-2025 01:24:15.605 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+10-May-2025 01:24:15.606 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+10-May-2025 01:24:15.606 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+10-May-2025 01:24:15.606 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+10-May-2025 01:24:15.606 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+10-May-2025 01:24:15.606 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+10-May-2025 01:24:15.606 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+10-May-2025 01:24:15.606 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\conf\logging.properties
+10-May-2025 01:24:15.607 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-May-2025 01:24:15.607 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+10-May-2025 01:24:15.607 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+10-May-2025 01:24:15.607 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dsun.io.useCanonCaches=false
+10-May-2025 01:24:15.607 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dignore.endorsed.dirs=
+10-May-2025 01:24:15.607 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104
+10-May-2025 01:24:15.608 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104
+10-May-2025 01:24:15.608 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\temp
+10-May-2025 01:24:15.613 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Cargada la biblioteca nativa APR de Apache Tomcat [1.3.1] con la versión APR [1.7.4].
+10-May-2025 01:24:15.613 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Capacidades APR: IPv6 [true], enviar fichero [true], aceptar filtros [false], aleatorio [true], UDS [true].
+10-May-2025 01:24:15.613 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+10-May-2025 01:24:15.632 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL inicializado correctamente [OpenSSL 3.0.14 4 Jun 2024]
+10-May-2025 01:24:15.863 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+10-May-2025 01:24:15.884 INFORMACIÓN [main] org.apache.catalina.startup.Catalina.load Server initialization in [469] milliseconds
+10-May-2025 01:24:15.931 INFORMACIÓN [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+10-May-2025 01:24:15.932 INFORMACIÓN [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.104]
+10-May-2025 01:24:15.942 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\docs] de la aplicación web
+10-May-2025 01:24:16.215 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\docs] has finished in [270] ms
+10-May-2025 01:24:16.216 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\examples] de la aplicación web
+10-May-2025 01:24:16.609 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\examples] has finished in [393] ms
+10-May-2025 01:24:16.609 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\host-manager] de la aplicación web
+10-May-2025 01:24:16.642 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\host-manager] has finished in [33] ms
+10-May-2025 01:24:16.642 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\manager] de la aplicación web
+10-May-2025 01:24:16.672 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\manager] has finished in [30] ms
+10-May-2025 01:24:16.673 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\ROOT] de la aplicación web
+10-May-2025 01:24:16.694 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\ROOT] has finished in [21] ms
+10-May-2025 01:24:16.698 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+10-May-2025 01:24:16.718 INFORMACIÓN [main] org.apache.catalina.startup.Catalina.start Server startup in [833] milliseconds
+10-May-2025 01:25:08.434 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/9.0.104
+10-May-2025 01:25:08.437 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Apr 4 2025 12:32:55 UTC
+10-May-2025 01:25:08.437 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     9.0.104.0
+10-May-2025 01:25:08.437 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 11
+10-May-2025 01:25:08.437 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+10-May-2025 01:25:08.437 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+10-May-2025 01:25:08.437 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\Eclipse Adoptium\jdk-21.0.5.11-hotspot
+10-May-2025 01:25:08.438 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       21.0.5+11-LTS
+10-May-2025 01:25:08.438 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Eclipse Adoptium
+10-May-2025 01:25:08.438 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104
+10-May-2025 01:25:08.438 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104
+10-May-2025 01:25:08.444 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+10-May-2025 01:25:08.444 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+10-May-2025 01:25:08.444 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+10-May-2025 01:25:08.444 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+10-May-2025 01:25:08.444 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+10-May-2025 01:25:08.444 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+10-May-2025 01:25:08.444 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+10-May-2025 01:25:08.445 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\conf\logging.properties
+10-May-2025 01:25:08.445 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-May-2025 01:25:08.445 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+10-May-2025 01:25:08.445 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+10-May-2025 01:25:08.445 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dsun.io.useCanonCaches=false
+10-May-2025 01:25:08.445 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dignore.endorsed.dirs=
+10-May-2025 01:25:08.445 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104
+10-May-2025 01:25:08.446 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104
+10-May-2025 01:25:08.446 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\temp
+10-May-2025 01:25:08.448 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Cargada la biblioteca nativa APR de Apache Tomcat [1.3.1] con la versión APR [1.7.4].
+10-May-2025 01:25:08.448 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Capacidades APR: IPv6 [true], enviar fichero [true], aceptar filtros [false], aleatorio [true], UDS [true].
+10-May-2025 01:25:08.448 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+10-May-2025 01:25:08.452 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL inicializado correctamente [OpenSSL 3.0.14 4 Jun 2024]
+10-May-2025 01:25:08.660 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+10-May-2025 01:25:08.678 INFORMACIÓN [main] org.apache.catalina.startup.Catalina.load Server initialization in [376] milliseconds
+10-May-2025 01:25:08.726 INFORMACIÓN [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+10-May-2025 01:25:08.726 INFORMACIÓN [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.104]
+10-May-2025 01:25:08.735 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\docs] de la aplicación web
+10-May-2025 01:25:08.962 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\docs] has finished in [226] ms
+10-May-2025 01:25:08.962 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\examples] de la aplicación web
+10-May-2025 01:25:09.315 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\examples] has finished in [353] ms
+10-May-2025 01:25:09.316 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\host-manager] de la aplicación web
+10-May-2025 01:25:09.347 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\host-manager] has finished in [30] ms
+10-May-2025 01:25:09.347 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\manager] de la aplicación web
+10-May-2025 01:25:09.375 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\manager] has finished in [28] ms
+10-May-2025 01:25:09.375 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\ROOT] de la aplicación web
+10-May-2025 01:25:09.395 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\ROOT] has finished in [20] ms
+10-May-2025 01:25:09.398 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+10-May-2025 01:25:09.414 INFORMACIÓN [main] org.apache.catalina.startup.Catalina.start Server startup in [734] milliseconds
+10-May-2025 01:27:39.659 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/C:/Users/Samuel/Desktop/SANVALERO/PROGRAMACION/ACTIVIDAD%20APRENDIZAJE%202/proyecto/apache-tomcat-9.0.104/conf/tomcat-users.xml]
+10-May-2025 01:27:39.688 GRAVE [Catalina-utility-1] org.apache.tomcat.util.digester.Digester.fatalError Parse fatal error at line [39] column [37]
+	org.xml.sax.SAXParseException; lineNumber: 39; columnNumber: 37; El valor del atributo "password" asociado a un tipo de elemento "user" no debe contener el carácter '<'.
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:400)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1465)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.scanAttributeValue(XMLScanner.java:943)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanAttribute(XMLDocumentFragmentScannerImpl.java:1522)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1363)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2726)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:542)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:889)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:825)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1224)
+		at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:637)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1556)
+		at org.apache.catalina.users.MemoryUserDatabase.open(MemoryUserDatabase.java:376)
+		at org.apache.catalina.users.MemoryUserDatabase.backgroundProcess(MemoryUserDatabase.java:642)
+		at org.apache.catalina.realm.UserDatabaseRealm.backgroundProcess(UserDatabaseRealm.java:143)
+		at org.apache.catalina.realm.CombinedRealm.backgroundProcess(CombinedRealm.java:247)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:959)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1172)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1154)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+10-May-2025 01:27:39.689 GRAVE [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Error reloading memory user database [UserDatabase] from updated source [file:/C:/Users/Samuel/Desktop/SANVALERO/PROGRAMACION/ACTIVIDAD%20APRENDIZAJE%202/proyecto/apache-tomcat-9.0.104/conf/tomcat-users.xml]
+	org.xml.sax.SAXParseException; lineNumber: 39; columnNumber: 37; El valor del atributo "password" asociado a un tipo de elemento "user" no debe contener el carácter '<'.
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1251)
+		at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:637)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1556)
+		at org.apache.catalina.users.MemoryUserDatabase.open(MemoryUserDatabase.java:376)
+		at org.apache.catalina.users.MemoryUserDatabase.backgroundProcess(MemoryUserDatabase.java:642)
+		at org.apache.catalina.realm.UserDatabaseRealm.backgroundProcess(UserDatabaseRealm.java:143)
+		at org.apache.catalina.realm.CombinedRealm.backgroundProcess(CombinedRealm.java:247)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:959)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1172)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1154)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+10-May-2025 01:27:49.736 INFORMACIÓN [Catalina-utility-2] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/C:/Users/Samuel/Desktop/SANVALERO/PROGRAMACION/ACTIVIDAD%20APRENDIZAJE%202/proyecto/apache-tomcat-9.0.104/conf/tomcat-users.xml]
+10-May-2025 01:27:49.763 GRAVE [Catalina-utility-2] org.apache.tomcat.util.digester.Digester.fatalError Parse fatal error at line [40] column [36]
+	org.xml.sax.SAXParseException; lineNumber: 40; columnNumber: 36; El valor del atributo "password" asociado a un tipo de elemento "user" no debe contener el carácter '<'.
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:400)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1465)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.scanAttributeValue(XMLScanner.java:943)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanAttribute(XMLDocumentFragmentScannerImpl.java:1522)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1363)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2726)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:542)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:889)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:825)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1224)
+		at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:637)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1556)
+		at org.apache.catalina.users.MemoryUserDatabase.open(MemoryUserDatabase.java:376)
+		at org.apache.catalina.users.MemoryUserDatabase.backgroundProcess(MemoryUserDatabase.java:642)
+		at org.apache.catalina.realm.UserDatabaseRealm.backgroundProcess(UserDatabaseRealm.java:143)
+		at org.apache.catalina.realm.CombinedRealm.backgroundProcess(CombinedRealm.java:247)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:959)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1172)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1154)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+10-May-2025 01:27:49.764 GRAVE [Catalina-utility-2] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Error reloading memory user database [UserDatabase] from updated source [file:/C:/Users/Samuel/Desktop/SANVALERO/PROGRAMACION/ACTIVIDAD%20APRENDIZAJE%202/proyecto/apache-tomcat-9.0.104/conf/tomcat-users.xml]
+	org.xml.sax.SAXParseException; lineNumber: 40; columnNumber: 36; El valor del atributo "password" asociado a un tipo de elemento "user" no debe contener el carácter '<'.
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1251)
+		at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:637)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1556)
+		at org.apache.catalina.users.MemoryUserDatabase.open(MemoryUserDatabase.java:376)
+		at org.apache.catalina.users.MemoryUserDatabase.backgroundProcess(MemoryUserDatabase.java:642)
+		at org.apache.catalina.realm.UserDatabaseRealm.backgroundProcess(UserDatabaseRealm.java:143)
+		at org.apache.catalina.realm.CombinedRealm.backgroundProcess(CombinedRealm.java:247)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:959)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1172)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1154)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+10-May-2025 01:27:59.796 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/C:/Users/Samuel/Desktop/SANVALERO/PROGRAMACION/ACTIVIDAD%20APRENDIZAJE%202/proyecto/apache-tomcat-9.0.104/conf/tomcat-users.xml]
+10-May-2025 01:27:59.799 GRAVE [Catalina-utility-1] org.apache.tomcat.util.digester.Digester.fatalError Parse fatal error at line [39] column [64]
+	org.xml.sax.SAXParseException; lineNumber: 39; columnNumber: 64; El tipo de elemento "user" debe ir seguido de una de estas especificaciones de atributo: ">" o "/>".
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:400)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1465)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.seekCloseOfStartTag(XMLDocumentFragmentScannerImpl.java:1443)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1372)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2726)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:542)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:889)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:825)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1224)
+		at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:637)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1556)
+		at org.apache.catalina.users.MemoryUserDatabase.open(MemoryUserDatabase.java:376)
+		at org.apache.catalina.users.MemoryUserDatabase.backgroundProcess(MemoryUserDatabase.java:642)
+		at org.apache.catalina.realm.UserDatabaseRealm.backgroundProcess(UserDatabaseRealm.java:143)
+		at org.apache.catalina.realm.CombinedRealm.backgroundProcess(CombinedRealm.java:247)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:959)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1172)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1154)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+10-May-2025 01:27:59.800 GRAVE [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Error reloading memory user database [UserDatabase] from updated source [file:/C:/Users/Samuel/Desktop/SANVALERO/PROGRAMACION/ACTIVIDAD%20APRENDIZAJE%202/proyecto/apache-tomcat-9.0.104/conf/tomcat-users.xml]
+	org.xml.sax.SAXParseException; lineNumber: 39; columnNumber: 64; El tipo de elemento "user" debe ir seguido de una de estas especificaciones de atributo: ">" o "/>".
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1251)
+		at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:637)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1556)
+		at org.apache.catalina.users.MemoryUserDatabase.open(MemoryUserDatabase.java:376)
+		at org.apache.catalina.users.MemoryUserDatabase.backgroundProcess(MemoryUserDatabase.java:642)
+		at org.apache.catalina.realm.UserDatabaseRealm.backgroundProcess(UserDatabaseRealm.java:143)
+		at org.apache.catalina.realm.CombinedRealm.backgroundProcess(CombinedRealm.java:247)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:959)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1172)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1154)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+10-May-2025 01:39:31.266 INFORMACIÓN [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Despliegue del archivo [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\Tiendaropa.war] de la aplicación web
+10-May-2025 01:39:32.758 INFORMACIÓN [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+10-May-2025 01:39:32.797 INFORMACIÓN [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\Tiendaropa.war] has finished in [1.532] ms
+10-May-2025 01:49:54.040 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Falló la recarga del contexto []
+10-May-2025 01:49:54.042 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto []
+10-May-2025 01:49:54.123 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.startup.ContextConfig.getDefaultWebXmlFragment No se ha hallado web.xml global
+10-May-2025 01:49:54.154 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+10-May-2025 01:49:54.155 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Falló la recarga del contexto [/Tiendaropa]
+10-May-2025 01:49:54.155 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/Tiendaropa]
+10-May-2025 01:49:55.137 INFORMACIÓN [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+10-May-2025 01:49:55.161 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+10-May-2025 01:49:55.161 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Falló la recarga del contexto [/examples]
+10-May-2025 01:49:55.162 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/examples]
+10-May-2025 01:49:55.623 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+10-May-2025 01:49:55.625 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Falló la recarga del contexto [/host-manager]
+10-May-2025 01:49:55.625 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/host-manager]
+10-May-2025 01:49:55.645 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+10-May-2025 01:49:55.646 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Falló la recarga del contexto [/manager]
+10-May-2025 01:49:55.646 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/manager]
+10-May-2025 01:49:55.691 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+10-May-2025 01:49:55.692 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Falló la recarga del contexto [/docs]
+10-May-2025 01:49:55.693 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/docs]
+10-May-2025 01:49:55.710 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+10-May-2025 01:50:05.718 INFORMACIÓN [Catalina-utility-2] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/C:/Users/Samuel/Desktop/SANVALERO/PROGRAMACION/ACTIVIDAD%20APRENDIZAJE%202/proyecto/apache-tomcat-9.0.104/conf/tomcat-users.xml]
+10-May-2025 01:54:21.076 INFORMACIÓN [main] org.apache.catalina.core.StandardServer.await Se ha recibido un comando de apagado a través del puerto de apagado. Parando la instancia del Servidor.
+10-May-2025 01:54:21.076 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+10-May-2025 01:54:21.080 INFORMACIÓN [main] org.apache.catalina.core.StandardService.stopInternal Parando servicio [Catalina]
+10-May-2025 01:54:21.087 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+10-May-2025 01:54:21.091 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

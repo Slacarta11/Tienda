@@ -1,24 +1,30 @@
-package org.example;
+import java.sql.SQLException;
+import java.util.List;
+import com.tiendaropa.model.Categoria;
+import org.jdbi.v3.core.Handle;
+import org.jdbi.v3.core.Jdbi;
+import com.tiendaropa.util.DatabaseConnector;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        Connection conexion = null;
-
         try {
-            Class.forName("com.mysql.cj.jdbc.Driver");
-            conexion = DriverManager.getConnection(
-                    "jdbc:mysql://localhost:3306/tiendaropa",
-                    "usuario", "contraseña");
-        } catch (ClassNotFoundException cnfe) {
-            cnfe.printStackTrace();
-        } catch (SQLException sqle) {
-            sqle.printStackTrace();
-        }
+            // Usar getJdbi() de DatabaseConnector en lugar de la conexión directa
+            Jdbi jdbi = DatabaseConnector.getJdbi();
 
+            // Prueba si funciona
+            boolean conexionExitosa = DatabaseConnector.testConnection();
+            System.out.println("Conexión exitosa: " + conexionExitosa);
+
+            // Aquí puedes usar jdbi para ejecutar consultas
+            // Por ejemplo:
+            // List<Categoria> categorias = jdbi.withHandle(handle ->
+            //    handle.createQuery("SELECT * FROM categorias")
+            //          .mapToBean(Categoria.class)
+            //          .list());
+
+        } catch (Exception e) {
+            e.printStackTrace();
         }
     }
 }

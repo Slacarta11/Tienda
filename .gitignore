@@ -36,3 +36,7 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+echo "apache-tomcat-9.0.104/Logs/*.log" >> .gitignore
+git add .gitignore
+git commit -m "Ignorar archivos de log"

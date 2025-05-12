@@ -296,3 +296,27 @@
 10-May-2025 01:39:31.266 INFORMACIÓN [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Despliegue del archivo [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\Tiendaropa.war] de la aplicación web
 10-May-2025 01:39:32.758 INFORMACIÓN [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
 10-May-2025 01:39:32.797 INFORMACIÓN [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Samuel\Desktop\SANVALERO\PROGRAMACION\ACTIVIDAD APRENDIZAJE 2\proyecto\apache-tomcat-9.0.104\webapps\Tiendaropa.war] has finished in [1.532] ms
+<<<<<<< HEAD
+=======
+10-May-2025 01:49:54.040 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Falló la recarga del contexto []
+10-May-2025 01:49:54.042 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto []
+10-May-2025 01:49:54.123 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.startup.ContextConfig.getDefaultWebXmlFragment No se ha hallado web.xml global
+10-May-2025 01:49:54.154 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+10-May-2025 01:49:54.155 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Falló la recarga del contexto [/Tiendaropa]
+10-May-2025 01:49:54.155 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/Tiendaropa]
+10-May-2025 01:49:55.137 INFORMACIÓN [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+10-May-2025 01:49:55.161 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+10-May-2025 01:49:55.161 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Falló la recarga del contexto [/examples]
+10-May-2025 01:49:55.162 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/examples]
+10-May-2025 01:49:55.623 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+10-May-2025 01:49:55.625 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Falló la recarga del contexto [/host-manager]
+10-May-2025 01:49:55.625 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/host-manager]
+10-May-2025 01:49:55.645 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+10-May-2025 01:49:55.646 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Falló la recarga del contexto [/manager]
+10-May-2025 01:49:55.646 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/manager]
+10-May-2025 01:49:55.691 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+10-May-2025 01:49:55.692 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Falló la recarga del contexto [/docs]
+10-May-2025 01:49:55.693 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/docs]
+10-May-2025 01:49:55.710 INFORMACIÓN [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+10-May-2025 01:50:05.718 INFORMACIÓN [Catalina-utility-2] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/C:/Users/Samuel/Desktop/SANVALERO/PROGRAMACION/ACTIVIDAD%20APRENDIZAJE%202/proyecto/apache-tomcat-9.0.104/conf/tomcat-users.xml]
+>>>>>>> master
